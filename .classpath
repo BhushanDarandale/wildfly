@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Bhushan/Downloads/javaee-api-7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Bhushan/Downloads/jboss-annotations-ejb3-4.2.2.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Bhushan/Desktop/bsd/apache-activemq-5.13.2-bin/apache-activemq-5.13.2/lib/activemq-client-5.13.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Bhushan/Desktop/bsd/apache-activemq-5.13.2-bin/apache-activemq-5.13.2/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Bhushan/Desktop/bsd/apache-activemq-5.13.2-bin/apache-activemq-5.13.2/lib/geronimo-jms_1.1_spec-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Bhushan/Desktop/bsd/apache-activemq-5.13.2-bin/apache-activemq-5.13.2/lib/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
